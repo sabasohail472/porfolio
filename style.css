@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.purple{
+    color:  #5E3BEE !important;
+;
+
+}
+.hello{
+color: #1C1E53 !important;
+}
+.btn{
+    color: #5E3BEE !important;
+    border: solid 1px #5E3BEE !important ;
+}
+.bg-btn{
+    color:white !important;
+    background-color: #5E3BEE !important;
+}
+span{
+    color: #5E3BEE;
+}
