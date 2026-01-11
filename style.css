@@ -28,3 +28,10 @@ span{
  background: #F5FCFF;
 
 }
+.gallery{
+    background-color: #F5FCFF !important;
+    outline: 20px solid white;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 20px;
+}
